@@ -1,0 +1,657 @@
+[
+	{
+		"id": "http://zotero.org/users/local/2kMMVOSh/items/B3T4PLAE",
+		"type": "article-journal",
+		"container-title": "Materials Research Letters",
+		"DOI": "10.1080/21663831.2019.1702113",
+		"ISSN": "2166-3831",
+		"issue": "2",
+		"language": "en",
+		"page": "75-81",
+		"source": "Crossref",
+		"title": "Hidden spin-polarized bands in semiconducting 2H-MoTe <sub>2</sub>",
+		"URL": "https://www.tandfonline.com/doi/full/10.1080/21663831.2019.1702113",
+		"volume": "8",
+		"author": [
+			{
+				"family": "Oliva",
+				"given": "R."
+			},
+			{
+				"family": "Woźniak",
+				"given": "T."
+			},
+			{
+				"family": "Dybala",
+				"given": "F."
+			},
+			{
+				"family": "Kopaczek",
+				"given": "J."
+			},
+			{
+				"family": "Scharoch",
+				"given": "P."
+			},
+			{
+				"family": "Kudrawiec",
+				"given": "R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					2,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2kMMVOSh/items/9SX86BJ4",
+		"type": "article-journal",
+		"container-title": "Small",
+		"DOI": "10.1002/smll.201905924",
+		"ISSN": "1613-6810, 1613-6829",
+		"issue": "1",
+		"language": "en",
+		"page": "1905924",
+		"source": "Crossref",
+		"title": "Exfoliated CrPS <sub>4</sub> with Promising Photoconductivity",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1002/smll.201905924",
+		"volume": "16",
+		"author": [
+			{
+				"family": "Budniak",
+				"given": "Adam K."
+			},
+			{
+				"family": "Killilea",
+				"given": "Niall A."
+			},
+			{
+				"family": "Zelewski",
+				"given": "Szymon J."
+			},
+			{
+				"family": "Sytnyk",
+				"given": "Mykhailo"
+			},
+			{
+				"family": "Kauffmann",
+				"given": "Yaron"
+			},
+			{
+				"family": "Amouyal",
+				"given": "Yaron"
+			},
+			{
+				"family": "Kudrawiec",
+				"given": "Robert"
+			},
+			{
+				"family": "Heiss",
+				"given": "Wolfgang"
+			},
+			{
+				"family": "Lifshitz",
+				"given": "Efrat"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2kMMVOSh/items/AQRISYMU",
+		"type": "article-journal",
+		"container-title": "Journal of Alloys and Compounds",
+		"DOI": "10.1016/j.jallcom.2020.153838",
+		"ISSN": "09258388",
+		"language": "en",
+		"page": "153838",
+		"source": "Crossref",
+		"title": "Determination of dislocation density in GaN/sapphire layers using XRD measurements carried out from the edge of the sample",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0925838820302012",
+		"volume": "825",
+		"author": [
+			{
+				"family": "Serafińczuk",
+				"given": "Jarosław"
+			},
+			{
+				"family": "Moszak",
+				"given": "Karolina"
+			},
+			{
+				"family": "Pawlaczyk",
+				"given": "Łukasz"
+			},
+			{
+				"family": "Olszewski",
+				"given": "Wojciech"
+			},
+			{
+				"family": "Pucicki",
+				"given": "Damian"
+			},
+			{
+				"family": "Kudrawiec",
+				"given": "Robert"
+			},
+			{
+				"family": "Hommel",
+				"given": "Detlef"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					6
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2kMMVOSh/items/GXV9ZWXX",
+		"type": "article-journal",
+		"container-title": "Journal of Applied Physics",
+		"DOI": "10.1063/1.5121368",
+		"ISSN": "0021-8979, 1089-7550",
+		"issue": "3",
+		"language": "en",
+		"page": "035702",
+		"source": "Crossref",
+		"title": "Inhomogeneous broadening of optical transitions observed in photoluminescence and modulated reflectance of polar and non-polar InGaN quantum wells",
+		"URL": "http://aip.scitation.org/doi/10.1063/1.5121368",
+		"volume": "127",
+		"author": [
+			{
+				"family": "Jarema",
+				"given": "Michał"
+			},
+			{
+				"family": "Gładysiewicz",
+				"given": "Marta"
+			},
+			{
+				"family": "Janicki",
+				"given": "Łukasz"
+			},
+			{
+				"family": "Zdanowicz",
+				"given": "Ewelina"
+			},
+			{
+				"family": "Turski",
+				"given": "Henryk"
+			},
+			{
+				"family": "Muzioł",
+				"given": "Grzegorz"
+			},
+			{
+				"family": "Skierbiszewski",
+				"given": "Czesław"
+			},
+			{
+				"family": "Kudrawiec",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					1,
+					21
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2kMMVOSh/items/3KU7Z4UL",
+		"type": "article-journal",
+		"container-title": "ACS Applied Nano Materials",
+		"DOI": "10.1021/acsanm.0c00403",
+		"ISSN": "2574-0970, 2574-0970",
+		"issue": "5",
+		"language": "en",
+		"page": "4209-4217",
+		"source": "Crossref",
+		"title": "Combined Temperature and Pressure Sensing Using Luminescent NaBiF <sub>4</sub> :Yb,Er Nanoparticles",
+		"title-short": "Combined Temperature and Pressure Sensing Using Luminescent NaBiF <sub>4</sub>",
+		"URL": "https://pubs.acs.org/doi/10.1021/acsanm.0c00403",
+		"volume": "3",
+		"author": [
+			{
+				"family": "Antoniak",
+				"given": "Magda A."
+			},
+			{
+				"family": "Zelewski",
+				"given": "Szymon J."
+			},
+			{
+				"family": "Oliva",
+				"given": "Robert"
+			},
+			{
+				"family": "Żak",
+				"given": "Andrzej"
+			},
+			{
+				"family": "Kudrawiec",
+				"given": "Robert"
+			},
+			{
+				"family": "Nyk",
+				"given": "Marcin"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					5,
+					22
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2kMMVOSh/items/DQVPM7AW",
+		"type": "article-journal",
+		"container-title": "Journal of Applied Physics",
+		"DOI": "10.1063/1.5140413",
+		"ISSN": "0021-8979, 1089-7550",
+		"issue": "16",
+		"language": "en",
+		"page": "165703",
+		"source": "Crossref",
+		"title": "Boron influence on bandgap and photoluminescence in BGaN grown on AlN",
+		"URL": "http://aip.scitation.org/doi/10.1063/1.5140413",
+		"volume": "127",
+		"author": [
+			{
+				"family": "Zdanowicz",
+				"given": "E."
+			},
+			{
+				"family": "Iida",
+				"given": "D."
+			},
+			{
+				"family": "Pawlaczyk",
+				"given": "L."
+			},
+			{
+				"family": "Serafinczuk",
+				"given": "J."
+			},
+			{
+				"family": "Szukiewicz",
+				"given": "R."
+			},
+			{
+				"family": "Kudrawiec",
+				"given": "R."
+			},
+			{
+				"family": "Hommel",
+				"given": "D."
+			},
+			{
+				"family": "Ohkawa",
+				"given": "K."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					4,
+					30
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2kMMVOSh/items/55Y2KBEE",
+		"type": "article-journal",
+		"container-title": "Computational Materials Science",
+		"DOI": "10.1016/j.commatsci.2020.109729",
+		"ISSN": "09270256",
+		"language": "en",
+		"page": "109729",
+		"source": "Crossref",
+		"title": "Towards band gap engineering via biaxial and axial strain in group IV crystals",
+		"URL": "https://linkinghub.elsevier.com/retrieve/pii/S0927025620302202",
+		"volume": "181",
+		"author": [
+			{
+				"family": "Janik",
+				"given": "Norbert"
+			},
+			{
+				"family": "Scharoch",
+				"given": "Pawel"
+			},
+			{
+				"family": "Kudrawiec",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					8
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2kMMVOSh/items/CQS55MUX",
+		"type": "article-journal",
+		"container-title": "Physical Review B",
+		"DOI": "10.1103/PhysRevB.101.235205",
+		"ISSN": "2469-9950, 2469-9969",
+		"issue": "23",
+		"language": "en",
+		"source": "Crossref",
+		"title": "Valley polarization investigation of GeS under high pressure",
+		"URL": "https://link.aps.org/doi/10.1103/PhysRevB.101.235205",
+		"volume": "101",
+		"author": [
+			{
+				"family": "Oliva",
+				"given": "R."
+			},
+			{
+				"family": "Woźniak",
+				"given": "T."
+			},
+			{
+				"family": "Dybala",
+				"given": "F."
+			},
+			{
+				"family": "Tołłoczko",
+				"given": "A."
+			},
+			{
+				"family": "Kopaczek",
+				"given": "J."
+			},
+			{
+				"family": "Scharoch",
+				"given": "P."
+			},
+			{
+				"family": "Kudrawiec",
+				"given": "R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					6,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2kMMVOSh/items/PUKZ577C",
+		"type": "article-journal",
+		"container-title": "Physical Review Materials",
+		"DOI": "10.1103/PhysRevMaterials.4.074602",
+		"ISSN": "2475-9953",
+		"issue": "7",
+		"language": "en",
+		"source": "Crossref",
+		"title": "Sn 5 s 2 lone pairs and the electronic structure of tin sulphides: A photoreflectance, high-energy photoemission, and theoretical investigation",
+		"title-short": "Sn 5 s 2 lone pairs and the electronic structure of tin sulphides",
+		"URL": "https://link.aps.org/doi/10.1103/PhysRevMaterials.4.074602",
+		"volume": "4",
+		"author": [
+			{
+				"family": "Jones",
+				"given": "Leanne A. H."
+			},
+			{
+				"family": "Linhart",
+				"given": "Wojciech M."
+			},
+			{
+				"family": "Fleck",
+				"given": "Nicole"
+			},
+			{
+				"family": "Swallow",
+				"given": "Jack E. N."
+			},
+			{
+				"family": "Murgatroyd",
+				"given": "Philip A. E."
+			},
+			{
+				"family": "Shiel",
+				"given": "Huw"
+			},
+			{
+				"family": "Featherstone",
+				"given": "Thomas J."
+			},
+			{
+				"family": "Smiles",
+				"given": "Matthew J."
+			},
+			{
+				"family": "Thakur",
+				"given": "Pardeep K."
+			},
+			{
+				"family": "Lee",
+				"given": "Tien-Lin"
+			},
+			{
+				"family": "Hardwick",
+				"given": "Laurence J."
+			},
+			{
+				"family": "Alaria",
+				"given": "Jonathan"
+			},
+			{
+				"family": "Jäckel",
+				"given": "Frank"
+			},
+			{
+				"family": "Kudrawiec",
+				"given": "Robert"
+			},
+			{
+				"family": "Burton",
+				"given": "Lee A."
+			},
+			{
+				"family": "Walsh",
+				"given": "Aron"
+			},
+			{
+				"family": "Skelton",
+				"given": "Jonathan M."
+			},
+			{
+				"family": "Veal",
+				"given": "Tim D."
+			},
+			{
+				"family": "Dhanak",
+				"given": "Vin R."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					7,
+					2
+				]
+			]
+		}
+	},
+	{
+		"id": "http://zotero.org/users/local/2kMMVOSh/items/GQY8QLLB",
+		"type": "article-journal",
+		"container-title": "Applied Physics Express",
+		"DOI": "10.35848/1882-0786/abb286",
+		"ISSN": "1882-0778, 1882-0786",
+		"issue": "9",
+		"page": "091005",
+		"source": "Crossref",
+		"title": "Temperature-dependent study of GaAs <sub> 1− <i>x</i> − <i>y</i> </sub> N <sub> <i>x</i> </sub> Bi <sub> <i>y</i> </sub> alloys for band-gap engineering: photoreflectance and <i>k</i> · <i>p</i> modeling",
+		"title-short": "Temperature-dependent study of GaAs <sub> 1− <i>x</i> − <i>y</i> </sub> N <sub> <i>x</i> </sub> Bi <sub> <i>y</i> </sub> alloys for band-gap engineering",
+		"URL": "https://iopscience.iop.org/article/10.35848/1882-0786/abb286",
+		"volume": "13",
+		"author": [
+			{
+				"family": "Żuraw",
+				"given": "Wiktor"
+			},
+			{
+				"family": "Linhart",
+				"given": "Wojciech M."
+			},
+			{
+				"family": "Occena",
+				"given": "Jordan"
+			},
+			{
+				"family": "Jen",
+				"given": "Tim"
+			},
+			{
+				"family": "Mitchell",
+				"given": "Jared. W."
+			},
+			{
+				"family": "Goldman",
+				"given": "Rachel S."
+			},
+			{
+				"family": "Kudrawiec",
+				"given": "Robert"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2020",
+					9,
+					1
+				]
+			]
+		}
+	}
+]

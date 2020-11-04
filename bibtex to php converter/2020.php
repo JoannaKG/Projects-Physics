@@ -41,14 +41,6 @@ echo('
 
 <br/><br/>
 
-<a href="https://doi.org/10.1002/qute.201900082" target="_blank">
-<b>High‐Purity Triggered Single‐Photon Emission from Symmetric Single InAs/InP Quantum Dots around the Telecom C‐Band Window</b>
-<br/>A. Musiał, P. Holewa, P. Wyborski, M. Syperek, A. Kors, J. Reithmaier, G. Sęk, M. Benyoucef<br/>
-<i>Advanced Quantum Technologies 3(2), 1900082 (2020)</i>
-</a>
-
-<br/><br/>
-
 <a href="https://doi.org/10.1063/1.5124812" target="_blank">
 <b>Interplay between emission wavelength and s-p splitting in MOCVD-grown InGaAs/GaAs quantum dots emitting above 1.3  μ  m</b>
 <br/>P. Podemski, A. Musiał, K. Gawarecki, A. Maryński, P. Gontar, A. Bercha, W. Trzeciakowski, N. Srocka, T. Heuser, D. Quandt, A. Strittmatter, S. Rodt, S. Reitzenstein, G. Sęk<br/>
@@ -117,6 +109,86 @@ echo('
 <b>Size-dependent optical properties of periodic arrays of semiconducting nanolines</b>
 <br/>A. Gawlik, J. Bogdanowicz, A. Schulze, P. Morin, J. Misiewicz, W. Vandervorst<br/>
 <i>Optics Express 28(5), 6781 (2020)</i>
+</a>
+
+<br/><br/>
+
+<a href="https://doi.org/10.1080/21663831.2019.1702113" target="_blank">
+<b>Hidden spin-polarized bands in semiconducting 2H-MoTe $_textrm2$</b>
+<br/>R. Oliva, T. Woźniak, F. Dybala, J. Kopaczek, P. Scharoch, R. Kudrawiec<br/>
+<i>Materials Research Letters 8(2), 75-81 (2020)</i>
+</a>
+
+<br/><br/>
+
+<a href="https://doi.org/10.1002/smll.201905924" target="_blank">
+<b>Exfoliated CrPS $_textrm4$ with Promising Photoconductivity</b>
+<br/>A. Budniak, N. Killilea, S. Zelewski, M. Sytnyk, Y. Kauffmann, Y. Amouyal, R. Kudrawiec, W. Heiss, E. Lifshitz<br/>
+<i>Small 16(1), 1905924 (2020)</i>
+</a>
+
+<br/><br/>
+
+<a href="https://doi.org/10.1016/j.jallcom.2020.153838" target="_blank">
+<b>Determination of dislocation density in GaN/sapphire layers using XRD measurements carried out from the edge of the sample</b>
+<br/>J. Serafińczuk, K. Moszak, Ł. Pawlaczyk, W. Olszewski, D. Pucicki, R. Kudrawiec, D. Hommel<br/>
+<i>Journal of Alloys and Compounds 825, 153838 (2020)</i>
+</a>
+
+<br/><br/>
+
+<a href="https://doi.org/10.1063/1.5121368" target="_blank">
+<b>Inhomogeneous broadening of optical transitions observed in photoluminescence and modulated reflectance of polar and non-polar InGaN quantum wells</b>
+<br/>M. Jarema, M. Gładysiewicz, Ł. Janicki, E. Zdanowicz, H. Turski, G. Muzioł, C. Skierbiszewski, R. Kudrawiec<br/>
+<i>Journal of Applied Physics 127(3), 035702 (2020)</i>
+</a>
+
+<br/><br/>
+
+<a href="https://doi.org/10.1021/acsanm.0c00403" target="_blank">
+<b>Combined Temperature and Pressure Sensing Using Luminescent NaBiF $_textrm4$ :Yb,Er Nanoparticles</b>
+<br/>M. Antoniak, S. Zelewski, R. Oliva, A. Żak, R. Kudrawiec, M. Nyk<br/>
+<i>ACS Applied Nano Materials 3(5), 4209-4217 (2020)</i>
+</a>
+
+<br/><br/>
+
+<a href="https://doi.org/10.1063/1.5140413" target="_blank">
+<b>Boron influence on bandgap and photoluminescence in BGaN grown on AlN</b>
+<br/>E. Zdanowicz, D. Iida, L. Pawlaczyk, J. Serafinczuk, R. Szukiewicz, R. Kudrawiec, D. Hommel, K. Ohkawa<br/>
+<i>Journal of Applied Physics 127(16), 165703 (2020)</i>
+</a>
+
+<br/><br/>
+
+<a href="https://doi.org/10.1016/j.commatsci.2020.109729" target="_blank">
+<b>Towards band gap engineering via biaxial and axial strain in group IV crystals</b>
+<br/>N. Janik, P. Scharoch, R. Kudrawiec<br/>
+<i>Computational Materials Science 181, 109729 (2020)</i>
+</a>
+
+<br/><br/>
+
+<a href="https://doi.org/10.1103/PhysRevB.101.235205" target="_blank">
+<b>Valley polarization investigation of GeS under high pressure</b>
+<br/>R. Oliva, T. Woźniak, F. Dybala, A. Tołłoczko, J. Kopaczek, P. Scharoch, R. Kudrawiec<br/>
+<i>Physical Review B 101(23) (2020)</i>
+</a>
+
+<br/><br/>
+
+<a href="https://doi.org/10.1103/PhysRevMaterials.4.074602" target="_blank">
+<b>Sn 5 s 2 lone pairs and the electronic structure of tin sulphides: A photoreflectance, high-energy photoemission, and theoretical investigation</b>
+<br/>L. Jones, W. Linhart, N. Fleck, J. Swallow, P. Murgatroyd, H. Shiel, T. Featherstone, M. Smiles, P. Thakur, T. Lee, L. Hardwick, J. Alaria, F. Jäckel, R. Kudrawiec, L. Burton, A. Walsh, J. Skelton, T. Veal, V. Dhanak<br/>
+<i>Physical Review Materials 4(7) (2020)</i>
+</a>
+
+<br/><br/>
+
+<a href="https://doi.org/10.35848/1882-0786/abb286" target="_blank">
+<b>Temperature-dependent study of GaAs $_textrm 1− x − y $ N $_textrm x $ Bi $_textrm y $ alloys for band-gap engineering: photoreflectance and k · p modeling</b>
+<br/>W. Żuraw, W. Linhart, J. Occena, T. Jen, J. Mitchell, R. Goldman, R. Kudrawiec<br/>
+<i>Applied Physics Express 13(9), 091005 (2020)</i>
 </a>
 
 <br/><br/>
