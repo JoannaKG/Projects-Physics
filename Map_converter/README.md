@@ -1,0 +1,1 @@
+The script allows to cut multiple spectra measured during one map measurement on Renishaw in Via Raman microscope and exported into .txt file into seperate files (one for each (x,y) coordinates of measured spot)
